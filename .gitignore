@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv.bak
+
+# OS
+.DS_Store
+
+# Power BI
+~$*.pbix
+
+# Environment
+.env
+.venv/
