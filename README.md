@@ -1,4 +1,4 @@
-# Customer Shopping Trends Analysis
+# Retail Revenue Quality & Customer Value Analysis
 
 An end-to-end data analytics project exploring customer shopping trends using SQL, Python, and Power BI. This project covers data cleaning, exploratory analysis, customer value segmentation, and dashboard visualization.
 
