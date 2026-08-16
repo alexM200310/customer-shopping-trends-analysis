@@ -26,6 +26,5 @@ customer-shopping-trends-analysis/
 1. Review the raw dataset in `data/raw/`.
 2. Run `notebooks/data_cleaning.ipynb` to produce the cleaned dataset.
 3. Execute the SQL scripts in `sql/exploration/` and `sql/analysis/` to explore trends and segment customers.
-4. Use `sql/views/06_dashboard_views.sql` to create views for the dashboard.
-5. Open `dashboard/customer_dashboard.pbix` in Power BI to explore the interactive dashboard.
-6. See `docs/executive_summary.md` for a summary of findings and recommendations.
+4. Open `dashboard/customer_dashboard.pbix` in Power BI to explore the interactive dashboard.
+5. See `docs/executive_summary.md` for a summary of findings and recommendations.
