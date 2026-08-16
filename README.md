@@ -12,8 +12,7 @@ customer-shopping-trends-analysis/
 ├── notebooks/            # Jupyter notebooks for data cleaning
 ├── sql/
 │   ├── exploration/      # Exploratory SQL queries
-│   ├── analysis/         # Customer value segmentation analysis
-│   └── views/            # SQL views powering the dashboard
+│   └── analysis/         # Customer value segmentation analysis
 ├── dashboard/            # Power BI dashboard file and screenshots
 └── docs/                 # Executive summary and documentation
 ```
