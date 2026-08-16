@@ -6,6 +6,7 @@ An end-to-end data analytics project exploring customer shopping trends using SQ
 
 ```
 customer-shopping-trends-analysis/
+├── dashboard/            # Power BI dashboard file and screenshots
 ├── data/
 │   ├── raw/              # Original raw dataset
 │   └── cleaned/          # Cleaned dataset ready for analysis
@@ -13,7 +14,6 @@ customer-shopping-trends-analysis/
 ├── sql/
 │   ├── exploration/      # Exploratory SQL queries
 │   └── analysis/         # Customer value segmentation analysis
-├── dashboard/            # Power BI dashboard file and screenshots
 └── docs/                 # Executive summary and documentation
 ```
 
